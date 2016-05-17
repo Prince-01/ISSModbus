@@ -29,6 +29,27 @@ namespace ISSModbus
         {
             Modbus.SetIntegerInput(2 * n + 1, t);
         }
+        public double GetTemperatureForRoomN(int n)
+        {
+            return Modbus.GetIntegerOutput(n);
+        }
+        public bool GetOuterLightsOnForGarageN(int n)
+        {
+            return GarageModbusAdapter.AreOuterLightsOn(n);
+        }
+        public bool GetInnerLightsOnForGarageN(int n)
+        {
+            return GarageModbusAdapter.AreInnerLightsOn(n);
+        }
+        public bool GetGateClosedForGarageN(int n)
+        {
+            return GarageModbusAdapter.IsGateClosed(n);
+        }
+        public bool GetGateOpenedForGarageN(int n)
+        {
+            return GarageModbusAdapter.IsGateOpened(n);
+        }
+
         public void Drive()
         {
             temperatureDriver.Drive();
