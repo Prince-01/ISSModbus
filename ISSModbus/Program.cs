@@ -18,6 +18,7 @@ namespace ISSModbus
             b.SetWantedTemperatureToRoomN(2, 26);
             b.SetWantedTemperatureToRoomN(3, 22);
             b.PrintRooms();
+            //comment
 
             while (true)
             {
