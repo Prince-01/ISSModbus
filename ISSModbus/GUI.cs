@@ -77,7 +77,7 @@ namespace ISSModbus
         {
             carout = !carout;
 
-            GarageModbusAdapter.SetCarOutside(0, carin);
+            GarageModbusAdapter.SetCarOutside(0, carout);
         }
 
         private void garage_Click(object sender, EventArgs e)

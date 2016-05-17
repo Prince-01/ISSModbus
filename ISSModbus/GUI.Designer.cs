@@ -60,7 +60,6 @@
             // 
             // DrivingTimer
             // 
-            this.DrivingTimer.Interval = 1000;
             this.DrivingTimer.Tick += new System.EventHandler(this.DrivingTimer_Tick);
             // 
             // groupBox1
