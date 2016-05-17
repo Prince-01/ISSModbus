@@ -55,22 +55,30 @@ namespace ISSModbus
 
         private void tpt1_TextChanged(object sender, EventArgs e)
         {
-            b.SetWantedTemperatureToRoomN(0, int.Parse(tpt1.Text));
+            int res;
+            if(int.TryParse(tpt1.Text, out res))
+                b.SetWantedTemperatureToRoomN(0, res);
         }
 
         private void tpt2_TextChanged(object sender, EventArgs e)
         {
-            b.SetWantedTemperatureToRoomN(1, int.Parse(tpt2.Text));
+            int res;
+            if (int.TryParse(tpt2.Text, out res))
+                b.SetWantedTemperatureToRoomN(1, res);
         }
 
         private void tpt3_TextChanged(object sender, EventArgs e)
         {
-            b.SetWantedTemperatureToRoomN(2, int.Parse(tpt3.Text));
+            int res;
+            if (int.TryParse(tpt3.Text, out res))
+                b.SetWantedTemperatureToRoomN(2, res);
         }
 
         private void tpt4_TextChanged(object sender, EventArgs e)
         {
-            b.SetWantedTemperatureToRoomN(3, int.Parse(tpt4.Text));
+            int res;
+            if (int.TryParse(tpt4.Text, out res))
+                b.SetWantedTemperatureToRoomN(3, res);
         }
 
         private void behindGarage_Click(object sender, EventArgs e)

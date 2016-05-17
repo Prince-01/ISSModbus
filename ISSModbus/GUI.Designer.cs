@@ -64,6 +64,9 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.tp1);
             this.groupBox1.Controls.Add(this.tpt1);
@@ -76,6 +79,9 @@
             // 
             // label5
             // 
+            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(27, 60);
             this.label5.Name = "label5";
@@ -85,6 +91,9 @@
             // 
             // tp1
             // 
+            this.tp1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tp1.AutoSize = true;
             this.tp1.Location = new System.Drawing.Point(27, 34);
             this.tp1.Name = "tp1";
@@ -94,6 +103,9 @@
             // 
             // tpt1
             // 
+            this.tpt1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tpt1.Location = new System.Drawing.Point(68, 57);
             this.tpt1.Name = "tpt1";
             this.tpt1.Size = new System.Drawing.Size(59, 20);
@@ -103,6 +115,9 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox2.Controls.Add(this.tpt2);
             this.groupBox2.Controls.Add(this.tp2);
             this.groupBox2.Controls.Add(this.label6);
@@ -115,6 +130,9 @@
             // 
             // tpt2
             // 
+            this.tpt2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tpt2.Location = new System.Drawing.Point(65, 57);
             this.tpt2.Name = "tpt2";
             this.tpt2.Size = new System.Drawing.Size(59, 20);
@@ -124,6 +142,9 @@
             // 
             // tp2
             // 
+            this.tp2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tp2.AutoSize = true;
             this.tp2.Location = new System.Drawing.Point(24, 34);
             this.tp2.Name = "tp2";
@@ -133,6 +154,9 @@
             // 
             // label6
             // 
+            this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(24, 60);
             this.label6.Name = "label6";
@@ -142,6 +166,9 @@
             // 
             // groupBox3
             // 
+            this.groupBox3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox3.Controls.Add(this.tpt3);
             this.groupBox3.Controls.Add(this.tp3);
             this.groupBox3.Controls.Add(this.label7);
@@ -154,6 +181,9 @@
             // 
             // tpt3
             // 
+            this.tpt3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tpt3.Location = new System.Drawing.Point(68, 54);
             this.tpt3.Name = "tpt3";
             this.tpt3.Size = new System.Drawing.Size(59, 20);
@@ -163,6 +193,9 @@
             // 
             // tp3
             // 
+            this.tp3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tp3.AutoSize = true;
             this.tp3.Location = new System.Drawing.Point(27, 30);
             this.tp3.Name = "tp3";
@@ -172,6 +205,9 @@
             // 
             // label7
             // 
+            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(27, 57);
             this.label7.Name = "label7";
@@ -181,6 +217,9 @@
             // 
             // groupBox4
             // 
+            this.groupBox4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox4.Controls.Add(this.tpt4);
             this.groupBox4.Controls.Add(this.tp4);
             this.groupBox4.Controls.Add(this.label8);
@@ -193,6 +232,9 @@
             // 
             // tpt4
             // 
+            this.tpt4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tpt4.Location = new System.Drawing.Point(63, 54);
             this.tpt4.Name = "tpt4";
             this.tpt4.Size = new System.Drawing.Size(59, 20);
@@ -202,6 +244,9 @@
             // 
             // tp4
             // 
+            this.tp4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tp4.AutoSize = true;
             this.tp4.Location = new System.Drawing.Point(22, 30);
             this.tp4.Name = "tp4";
@@ -211,6 +256,9 @@
             // 
             // label8
             // 
+            this.label8.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.label8.AutoSize = true;
             this.label8.Location = new System.Drawing.Point(22, 57);
             this.label8.Name = "label8";
@@ -220,6 +268,9 @@
             // 
             // behindGarage
             // 
+            this.behindGarage.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.behindGarage.Location = new System.Drawing.Point(404, 12);
             this.behindGarage.Name = "behindGarage";
             this.behindGarage.Size = new System.Drawing.Size(137, 225);
@@ -230,6 +281,9 @@
             // 
             // garage
             // 
+            this.garage.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.garage.Location = new System.Drawing.Point(627, 13);
             this.garage.Name = "garage";
             this.garage.Size = new System.Drawing.Size(137, 225);
@@ -240,6 +294,10 @@
             // 
             // gate
             // 
+            this.gate.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.gate.Enabled = false;
             this.gate.Location = new System.Drawing.Point(560, 12);
             this.gate.Name = "gate";
             this.gate.Size = new System.Drawing.Size(50, 225);
@@ -249,6 +307,9 @@
             // 
             // outerLights
             // 
+            this.outerLights.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.outerLights.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.outerLights.Enabled = false;
             this.outerLights.Location = new System.Drawing.Point(363, 13);
@@ -259,6 +320,9 @@
             // 
             // innerLights
             // 
+            this.innerLights.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.innerLights.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.innerLights.Enabled = false;
             this.innerLights.Location = new System.Drawing.Point(770, 13);
@@ -269,6 +333,9 @@
             // 
             // steerTempButton
             // 
+            this.steerTempButton.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.steerTempButton.Location = new System.Drawing.Point(12, 244);
             this.steerTempButton.Name = "steerTempButton";
             this.steerTempButton.Size = new System.Drawing.Size(332, 27);
